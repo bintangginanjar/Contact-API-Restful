@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Spring Contact Restful", // <-- to identify the connection
+    "type": "mysql", // <- or "mariadb" if you are using MariaDB
+    "host": "localhost",
+    "port": "3306",
+    "username": "root",
+    "password": "",
+    "database": "contactrestful" // <-- the database to show in VS Code DevDb view
+  }
+]
